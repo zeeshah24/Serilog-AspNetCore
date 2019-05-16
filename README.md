@@ -1,6 +1,6 @@
 # Serilog-AspNetCore
 
-This is a sample Asp.Net core(v2.1) application with using Serilog as a third party logging provider.
+This is a sample Asp.Net core(v2.0) application with using Serilog as a third party logging provider.
 The following packages are required
 
 Install-Package packagename
